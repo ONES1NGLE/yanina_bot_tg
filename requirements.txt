@@ -1,2 +1,2 @@
 aiogram
-python-dotenvпше
+python-dotenv
